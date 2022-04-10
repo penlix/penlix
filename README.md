@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @penlix
-- 👀 I’m interested in design and interaction.
+- 👋 Hi, I’m Kostas.
+- 👀 I’m into design and tech.
 - 📫 How to reach me: info@niceandneat.digital
 
 <!---
