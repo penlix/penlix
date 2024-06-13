@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Kostas.
 - 👀 I’m into design and tech.
-- 📫 How to reach me: info@niceandneat.digital
+
 
 <!---
 penlix/penlix is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
