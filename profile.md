@@ -29,14 +29,17 @@ I'm an independent, creative problem solver who cares as much about *how* someth
 - Quality rewarded over quantity.
 - Structured, well-ordered environments with good access to information and space to think.
 
-## Insights Discovery snapshot
+## How my profile reads
 
-| | |
-|---|---|
-| **Type** | Creative Observing Reformer (Accommodating) |
-| **Lead energies** | Cool Blue (73%) · Sunshine Yellow (69%) |
-| **Support energies** | Fiery Red (53%) · Earth Green (49%) |
-| **Opposite type** | The Helper (Feeling) — a useful counterbalance I value in collaborators |
+I once did a personality assessment (Insights Discovery) that mapped out how I tend to work.
+In plain terms, it came out like this:
+
+- 🔵 **Thoughtful and precise** *(my strongest side)* — I like to understand the detail, think things through, and get them right.
+- 🟡 **Creative and expressive** — I enjoy generating ideas and exploring what's possible.
+- 🔴 **Decisive and direct** — when it's time to act, I focus on results and say what I think.
+- 🟢 **Calm and considered** — I bring a steady, reflective balance to a team.
+
+The quality I lean on least — and most appreciate in the people I work with — is an easy, people-first warmth that keeps everyone connected.
 
 ---
 
