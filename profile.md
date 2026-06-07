@@ -8,11 +8,11 @@ I'm an independent, creative problem solver who cares as much about *how* someth
 
 ## What I bring
 
-- 🎯 **A critical, improving eye** — I look for ways to make things work better, not just work.
-- 🧭 **Far-sighted planning** — I think in terms of process and the long game, not just the next step.
-- 🧩 **Original problem solving** — I generate a rich variety of alternatives and enjoy untangling complex problems.
-- ⚖️ **Objective, principled judgement** — I weigh decisions on logic and evidence, and I keep a steady head under pressure.
-- 🛠️ **Quality *and* productivity** — I hold both in equal regard, with a strong work ethic behind them.
+- 🎯 **A critical, improving eye.** I look for ways to make things work better, not just work.
+- 🧭 **Far-sighted planning.** I think in terms of process and the long game, not just the next step.
+- 🧩 **Original problem solving.** I generate a rich variety of alternatives and enjoy untangling complex problems.
+- ⚖️ **Objective, principled judgement.** I weigh decisions on logic and evidence, and I keep a steady head under pressure.
+- 🛠️ **Quality *and* productivity.** I hold both in equal regard, with a strong work ethic behind them.
 
 ## How to work well with me
 
@@ -20,7 +20,7 @@ I'm an independent, creative problem solver who cares as much about *how* someth
 - Be clear about expectations and timescales.
 - Persuade with logic and reasoning rather than urgency or emotion.
 - Get to the point, then leave me room to decide the way forward.
-- Give me a little time to formulate my approach — hesitation isn't a lack of an answer.
+- Give me a little time to formulate my approach; hesitation isn't a lack of an answer.
 
 ## What energizes me
 
@@ -31,15 +31,16 @@ I'm an independent, creative problem solver who cares as much about *how* someth
 
 ## How my profile reads
 
-I once did a personality assessment (Insights Discovery) that mapped out how I tend to work.
-In plain terms, it came out like this:
+New to these colours? [Here's a guide to the Insights Discovery colour energies and how to use them at work](https://blog.insights.com/en-gb/blog/the-essential-guide-to-insights-discovery-colour-energies-and-how-to-use-them-at-work).
 
-- 🔵 **Thoughtful and precise** *(my strongest side)* — I like to understand the detail, think things through, and get them right.
-- 🟡 **Creative and expressive** — I enjoy generating ideas and exploring what's possible.
-- 🔴 **Decisive and direct** — when it's time to act, I focus on results and say what I think.
-- 🟢 **Calm and considered** — I bring a steady, reflective balance to a team.
+Here's the short version of how I tend to work:
 
-The quality I lean on least — and most appreciate in the people I work with — is an easy, people-first warmth that keeps everyone connected.
+- 🔵 **Thoughtful and precise** *(my strongest side)*. I like to understand the detail, think things through, and get them right.
+- 🟡 **Creative and expressive.** I enjoy generating ideas and exploring what's possible.
+- 🔴 **Decisive and direct.** When it's time to act, I focus on results and say what I think.
+- 🟢 **Calm and considered.** I bring a steady, reflective balance to a team.
+
+The quality I lean on least, and most appreciate in the people I work with, is an easy, people-first warmth that keeps everyone connected.
 
 ---
 
