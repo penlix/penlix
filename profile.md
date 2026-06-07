@@ -8,11 +8,11 @@ I'm an independent, creative problem solver who cares as much about *how* someth
 
 ## What I bring
 
-- 🎯 **A critical, improving eye.** I look for ways to make things work better, not just work.
-- 🧭 **Far-sighted planning.** I think in terms of process and the long game, not just the next step.
-- 🧩 **Original problem solving.** I generate a rich variety of alternatives and enjoy untangling complex problems.
-- ⚖️ **Objective, principled judgement.** I weigh decisions on logic and evidence, and I keep a steady head under pressure.
-- 🛠️ **Quality *and* productivity.** I hold both in equal regard, with a strong work ethic behind them.
+- **A critical, improving eye.** I look for ways to make things work better, not just work.
+- **Far-sighted planning.** I think in terms of process and the long game, not just the next step.
+- **Original problem solving.** I generate a rich variety of alternatives and enjoy untangling complex problems.
+- **Objective, principled judgement.** I weigh decisions on logic and evidence, and I keep a steady head under pressure.
+- **Quality *and* productivity.** I hold both in equal regard, with a strong work ethic behind them.
 
 ## How to work well with me
 
