@@ -1,9 +1,9 @@
 - 👋 Hi, I'm Kostas (Konstantinos Penlidis).
-- 🎨 A designer at heart, passionate about great form and function for global companies.
-- 💼 Currently Design Assistant Lead at [Remitly](https://www.remitly.com).
-- 🌐 Find me at [niceandneat.digital](https://niceandneat.digital), or [book some time with me](https://calendly.com/penlix).
-- 🧠 Curious how I work? Here's my [working style](profile.md).
-- 👀 Always into the intersection of design and tech.
+- A designer at heart, passionate about great form and function for global companies.
+- Currently Design System Lead at [Remitly](https://www.remitly.com).
+- Find me at [niceandneat.digital](https://niceandneat.digital), or [book some time with me](https://calendly.com/penlix).
+- Curious how I work? Here's my [working style](profile.md).
+- Always into the intersection of design and tech.
 
 
 <!---
